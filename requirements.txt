@@ -1,0 +1,11 @@
+flask
+numpy
+pandas
+seaborn
+sklearn
+imblearn
+xgboost
+scikit-plot
+ipython
+pydotplus
+lightgbm
